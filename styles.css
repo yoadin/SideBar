@@ -32,4 +32,20 @@ body{
     opacity: 0.7;
 }
 
+#openSidebarBtn{
+    background-color: rgb(79, 179, 179);
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+#closeSidebarBtn{
+    background-color: rgb(249, 237, 180);
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 18px;
+}
+
 /* Write CSS code here */
