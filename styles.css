@@ -22,4 +22,14 @@ body{
     padding: 20px;
 }
 
+.sidebar p{
+    color: bisque;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.sidebar p:hover{
+    opacity: 0.7;
+}
+
 /* Write CSS code here */
