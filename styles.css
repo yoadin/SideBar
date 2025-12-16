@@ -38,6 +38,13 @@ body{
     border-radius: 20px;
     padding: 10px;
     font-size: 18px;
+    color: aliceblue;
+    cursor: pointer;
+    margin: 15px;
+}
+
+#openSidebarBtn:hover{
+    opacity: 0.6;
 }
 
 #closeSidebarBtn{
@@ -46,6 +53,13 @@ body{
     border-radius: 20px;
     padding: 10px;
     font-size: 18px;
+    color: rgb(13, 93, 96);
+    cursor: pointer;
 }
+
+#closeSidebarBtn:hover{
+    opacity: 0.6;
+}
+
 
 /* Write CSS code here */
